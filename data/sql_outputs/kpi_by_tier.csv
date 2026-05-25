@@ -1,0 +1,4 @@
+performance_tier,hospital_count,pct_of_total,avg_satisfaction,avg_er_wait,avg_readmission,avg_star_rating,avg_bed_count
+Average,3181,59.3,73.98,142.1,16.4,3.0,134.0
+High Performer,1333,24.8,73.83,169.6,16.17,4.29,264.0
+Low Performer,852,15.9,68.06,175.1,16.82,1.77,255.0

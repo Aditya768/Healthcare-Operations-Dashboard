@@ -1,0 +1,16 @@
+facility_id,facility_name,state,hospital_type,hospital_satisfaction,peer_avg_satisfaction,vs_peer_satisfaction,hospital_er_wait,peer_avg_er_wait,vs_peer_er_wait,peer_count,peer_benchmark_status
+440007,UNITY MEDICAL CENTER,TN,Acute Care Hospitals,92.5,71.79,20.71,126.0,169.7,-43.7,78,Strong Outperformer
+110101,"SOUTHWELL MEDICAL, A CAMPUS OF TRMC",GA,Acute Care Hospitals,92.25,71.92,20.33,,188.7,,96,Strong Outperformer
+451343,ELECTRA MEMORIAL HOSPITAL,TX,Critical Access Hospitals,96.12,76.19,19.93,110.0,111.7,-1.7,93,Strong Outperformer
+100313,ASCENSION SACRED HEART GULF,FL,Acute Care Hospitals,87.75,69.01,18.74,107.0,156.7,-49.7,167,Strong Outperformer
+190184,CITIZENS MEDICAL CENTER,LA,Acute Care Hospitals,93.5,76.33,17.17,123.0,146.7,-23.7,82,Strong Outperformer
+390323,ADVANCED SURGICAL HOSPITAL,PA,Acute Care Hospitals,88.62,71.55,17.07,,194.3,,132,Strong Outperformer
+201301,NORTHERN LIGHT C A DEAN HOSPITAL,ME,Critical Access Hospitals,93.88,76.89,16.99,90.0,141.4,-51.4,18,Strong Outperformer
+050766,SUTTER SURGICAL HOSPITAL - NORTH VALLEY,CA,Acute Care Hospitals,84.62,68.0,16.62,,192.9,,277,Strong Outperformer
+670134,ALTUS LUMBERTON HOSPITAL,TX,Acute Care Hospitals,90.0,73.71,16.29,,155.1,,285,Strong Outperformer
+390324,PHYSICIANS CARE SURGICAL HOSPITAL,PA,Acute Care Hospitals,87.75,71.55,16.2,,194.3,,132,Strong Outperformer
+390325,OSS ORTHOPAEDIC HOSPITAL,PA,Acute Care Hospitals,87.5,71.55,15.95,,194.3,,132,Strong Outperformer
+450369,CHILDRESS REGIONAL MEDICAL CENTER,TX,Acute Care Hospitals,89.62,73.71,15.91,119.0,155.1,-36.1,285,Strong Outperformer
+140100,"MIDWESTERN REGION MED CENTER, INC",IL,Acute Care Hospitals,84.38,68.9,15.48,173.0,195.3,-22.3,114,Strong Outperformer
+150195,UCHICAGO MEDICINE NORTHWEST INDIANA,IN,Acute Care Hospitals,87.5,72.05,15.45,124.0,160.6,-36.6,82,Strong Outperformer
+290058,SAINT ROSE DOMINICAN HOSPITALS - NORTH LAS VEGAS,NV,Acute Care Hospitals,83.38,68.45,14.93,92.0,162.3,-70.3,22,Strong Outperformer

@@ -1,0 +1,7 @@
+er_cohort,hospitals,avg_satisfaction,min_satisfaction,max_satisfaction,stddev_satisfaction,vs_fastest_cohort
+1. Fast (<100 min),385,76.83,62.62,93.88,5.48,0.0
+2. Efficient (100-150 min),1687,74.86,40.0,96.12,5.86,-1.97
+3. Average (150-200 min),1214,70.71,45.5,87.75,5.36,-6.12
+4. Slow (200-250 min),579,69.09,50.0,87.88,4.99,-7.74
+5. Very Slow (250-300 min),156,68.2,54.75,78.88,4.27,-8.63
+6. Critical (>300 min),48,69.18,59.25,78.5,4.41,-7.65

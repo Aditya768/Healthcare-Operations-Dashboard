@@ -1,0 +1,4 @@
+cluster_label,hospital_count,pct_of_total,avg_satisfaction,avg_er_wait,avg_star_rating,avg_readmission,avg_ami_mortality,avg_bed_count,most_common_state
+⭐ High Quality · Efficient,1742,32.5,75.9,120.3,3.0,16.4,12.13,95.0,TX
+✅ Good Satisfaction · Fast ER,1302,24.3,74.34,117.2,2.99,16.37,12.1,75.0,TX
+⚠️ Low Quality · High Risk,2322,43.3,70.07,189.9,3.29,16.44,12.11,316.0,CA

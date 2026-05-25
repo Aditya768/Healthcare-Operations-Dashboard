@@ -1,0 +1,6 @@
+income_band,hospitals,avg_satisfaction,avg_er_wait,avg_readmission,avg_poverty_rate,avg_pct_uninsured,avg_bed_count,vs_overall_avg
+1. Low Income (<$55K),663,74.25,143.4,16.47,17.1,10.2,146.0,1.32
+2. Lower-Mid ($55K-$65K),1627,73.22,150.5,16.4,12.6,10.9,181.0,0.28
+3. Upper-Mid ($65K-$75K),1875,73.23,157.4,16.4,11.7,9.9,190.0,0.29
+4. High ($75K-$85K),506,74.02,147.5,16.2,8.6,7.2,152.0,1.09
+5. Very High (>$85K),695,69.95,191.8,16.56,10.3,6.0,250.0,-2.98

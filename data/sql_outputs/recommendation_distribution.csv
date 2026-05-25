@@ -1,0 +1,8 @@
+priority,feature,recommendation_count,pct_within_priority,recommendation
+HIGH,hospital_overall_rating,1036,48.3,Low CMS star rating — focus on quality improvement initiatives targeting rated measures
+HIGH,OP_18b,584,27.2,Improve ER throughput — target median ER time under 200 minutes
+HIGH,MORT_30_AMI,282,13.2,Improve AMI outcomes — review cardiac care protocols against national benchmarks
+HIGH,avg_er_wait_minutes,242,11.3,Reduce ER wait times — implement fast-track triage for non-critical patients
+LOW,deprivation_index,406,65.8,High deprivation area — partner with community health organizations for wraparound services
+LOW,pct_uninsured,211,34.2,High uninsured rate area — expand financial counseling and charity care programs
+MEDIUM,bed_count,2305,100.0,Large hospital penalty — invest in patient experience programs to offset scale disadvantage

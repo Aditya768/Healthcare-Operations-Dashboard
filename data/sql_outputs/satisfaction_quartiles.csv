@@ -1,0 +1,5 @@
+satisfaction_quartile,quartile_label,hospitals,min_score,max_score,avg_score,avg_er_wait
+1,Bottom 25% (Struggling),1342,40.0,70.12,66.11,186.2
+2,Q2 (Below Average),1342,70.12,72.88,72.19,157.9
+3,Q3 (Above Average),1341,72.88,75.5,73.46,146.3
+4,Top 25% (Excellent),1341,75.5,96.12,80.24,129.8

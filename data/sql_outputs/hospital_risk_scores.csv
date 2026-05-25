@@ -1,0 +1,5 @@
+risk_level,hospital_count,avg_satisfaction,avg_er_wait,avg_readmission
+CRITICAL,4,60.97,249.3,17.2
+HIGH,212,61.65,193.6,17.19
+MEDIUM,543,68.84,177.6,16.91
+LOW,4607,74.02,151.2,16.32

@@ -1,0 +1,16 @@
+facility_id,facility_name,state,hospital_type,satisfaction_score,er_wait_min,performance_tier,state_rank,hospitals_in_state,state_percentile
+051331,SANTA YNEZ VALLEY COTTAGE HOSPITAL,CA,Critical Access Hospitals,85.12,135.0,Average,1,378,0.3
+050766,SUTTER SURGICAL HOSPITAL - NORTH VALLEY,CA,Acute Care Hospitals,84.62,,Average,2,378,0.5
+051328,TAHOE FOREST HOSPITAL,CA,Critical Access Hospitals,83.5,114.0,Average,3,378,0.8
+101303,LAKE BUTLER HOSPITAL,FL,Critical Access Hospitals,89.25,86.0,Average,1,221,0.5
+101315,JAY HOSPITAL,FL,Critical Access Hospitals,88.62,133.0,Average,2,221,0.9
+100313,ASCENSION SACRED HEART GULF,FL,Acute Care Hospitals,87.75,107.0,Average,3,221,1.4
+141330,HOPEDALE HOSPITAL,IL,Critical Access Hospitals,93.25,132.0,Average,1,194,0.5
+141302,MIDWEST MEDICAL CENTER,IL,Critical Access Hospitals,88.75,,Average,2,194,1.0
+141301,KIRBY MEDICAL CENTER,IL,Critical Access Hospitals,86.5,126.0,Average,3,194,1.5
+33025F,Keller ACH (West Point),NY,Acute Care - Department of Defense,88.0,65.0,Average,1,191,0.5
+331309,RIVER HOSPITAL CLINICS,NY,Critical Access Hospitals,86.12,,Average,2,191,1.0
+331304,MARGARETVILLE MEMORIAL HOSPITAL,NY,Critical Access Hospitals,85.0,,Average,3,191,1.6
+451343,ELECTRA MEMORIAL HOSPITAL,TX,Critical Access Hospitals,96.12,110.0,Average,1,468,0.2
+670134,ALTUS LUMBERTON HOSPITAL,TX,Acute Care Hospitals,90.0,,Average,2,468,0.4
+450369,CHILDRESS REGIONAL MEDICAL CENTER,TX,Acute Care Hospitals,89.62,119.0,Average,3,468,0.6
